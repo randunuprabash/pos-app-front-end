@@ -3,7 +3,7 @@ UI design using boostrap
 
 ### Getting Started
 * First Clone the project
-  https://github.com/randunuprabash/Simple-ORM.git
+`https://github.com/randunuprabash/pos-app-front-end.git`
 * Open the project with any idea 
 * Strat any local server
 * Use any browser to open the UI
