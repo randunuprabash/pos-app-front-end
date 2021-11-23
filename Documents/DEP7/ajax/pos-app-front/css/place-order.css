@@ -1,0 +1,11 @@
+
+.table tbody{
+    cursor:pointer;
+}
+
+.table td:last-child{
+    color: grey;
+}
+.table td:last-child:hover{
+    color: black;
+}

@@ -1,0 +1,9 @@
+.brand-link {
+  text-align: left;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.brand-link .brand-text {
+  margin-right: 10px;
+}
