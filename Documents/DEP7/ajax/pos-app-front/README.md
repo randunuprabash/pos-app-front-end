@@ -5,7 +5,9 @@ UI design using boostrap
 * First Clone the project
 `https://github.com/randunuprabash/pos-app-front-end.git`
 * Open the project with any idea 
-* Strat any local server
+* Move to the directory Documents/DEP7/ajax/pos-app-front/
+* Install the required node dependancy using `npm install` command
+* Start any local server
 * Use any browser to open the UI
 
 
